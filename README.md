@@ -228,8 +228,8 @@ Use Gemini + Google Search to auto-fill business information (restaurants, schoo
 
 **Chien-I (Carrie) Wen**
 
-- M.S. in EE (CS major) — National Taiwan University (GPA 4.0/4.3, Ranked 1st)
-- B.S. in Business Administration — National Cheng Kung University (GPA 3.8)
+- M.S. in EE (CS major) — National Taiwan University 
+- B.S. in Business Administration — National Cheng Kung University 
 - Thesis: Monte Carlo Tree Search for Floor Layout Optimization
 
 Bridging AI technology and business value — passionate about AI solution design, workflow automation, and helping organizations adopt AI effectively.
